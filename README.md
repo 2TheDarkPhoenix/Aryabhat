@@ -51,6 +51,13 @@ if you find error please execute install.sh first
       happy hacking :)
 
 
+Usage 
+Execute install.sh 
+Make sure metasploit is installed 
+This script works on both termux and linux 
+
+
+
 
 
 
